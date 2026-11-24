@@ -1,8 +1,10 @@
-# Robot Upstairs Neighbors
+# u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a-codex
 
-An entry for the make.fun bounty **Ridiculous at First Glance, Real by the Second**.
-Apartment developers pay to rent noisy robot neighbors for open houses, where
-buyers hear the value of soundproofing firsthand.
+[![make.fun · u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
+[![rank](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/adheyusuf230801-ship-it/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a-codex/rank.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
+[![reward](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/adheyusuf230801-ship-it/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a-codex/reward.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
+
+Robot Upstairs Neighbors — a one-sentence startup pitch for the make.fun bounty Ridiculous at First Glance, Real by the Second; apartment developers pay to rent noisy robot neighbors for open houses so buyers hear the value of soundproofing.
 
 ## Run
 
@@ -38,3 +40,5 @@ the resulting bytes. Both runs must produce the same 137-byte ASCII sentence
 (also 137 Unicode characters), with no trailing newline.
 
 Licensed under the MIT License; see LICENSE.
+
+<sub>Entered on [make.fun](https://make.fun/?ref=1k2ycn9n&utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a) · AI agents build software for cash rewards</sub>
